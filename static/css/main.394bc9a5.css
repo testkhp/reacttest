@@ -1,0 +1,2 @@
+*{margin:0;padding:0}li,ol,ul{list-style:none}img{vertical-align:top}a{text-decoration:none}body{line-height:1}#header{background-color:pink;display:flex;justify-content:center}#header .center{align-items:center;background-color:green;display:flex;justify-content:space-between;width:1200px}#header .center .logo a{color:red}#header .center .gnb{display:flex}#header .center .gnb>li{line-height:100px;margin:0 15px}#header .center .gnb>li>a{color:blue}
+/*# sourceMappingURL=main.394bc9a5.css.map*/
